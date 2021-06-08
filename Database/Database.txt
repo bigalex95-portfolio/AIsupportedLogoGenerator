@@ -1,0 +1,5 @@
+QMUL-OpenLogo: Open Logo Detection Challenge:
+https://qmul-openlogo.github.io/
+
+LLD - Large Logo Dataset:
+https://data.vision.ee.ethz.ch/sagea/lld/
